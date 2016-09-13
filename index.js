@@ -12,11 +12,11 @@ class President {
 	}
 
 	passBill() {
-		return "You can do that!";
+		return("You can do that!");
 	}
 
 	doCharity() {
-		return "I like to help people.";
+		return("I like to help people.");
 	}
 
 	conductPressInterview() {
